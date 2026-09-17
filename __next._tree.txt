@@ -1,0 +1,3 @@
+:HL["/redaktor-pages/_next/static/chunks/06vmmffnabzrb.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@0,400;0,600;0,800;1,400;1,600&family=Commissioner:wght@400;500;600;700&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"pZPVUjjNTJV92cRJxfTsE"}
